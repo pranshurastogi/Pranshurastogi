@@ -24,13 +24,11 @@
 
 ## 🌟 About
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=18&color=00FF99&background=000000&center=true&width=1500&height=300&duration=200&pause=3000&multiline=true&repeat=false&lines=Started%20my%20journey%20in%202018%2C%20not%20with%20an%20airdrop%2C%20but%20with%20the%20Bitcoin%20whitepaper.%20That%20one%20PDF%20hit%20differently.;Since%20then%2C%20I%27ve%20worn%20many%20hats%3A%20software%20engineer%2C%20engineering%20lead%2C%20and%20ecosystem%20builder.;Now%2C%20I%20help%20grow%20ecosystems%20and%20forge%20integrations%20that%20matter.;Along%20the%20way%2C%20I%27ve%20realized%20one%20underrated%20superpower%3A%20empathy.%20It%27s%20what%20builds%20strong%20communities%2C%20aligns%20people%2C%20and%20turns%20contributors%20into%20believers.;I%27m%20deeply%20obsessed%20with%20tech%2C%20psychology%2C%20and%20storytelling%E2%80%94the%20kind%20that%20connects%2C%20not%20just%20converts.;I%20believe%20we%27re%20not%20just%20building%20products%20here%3B%20we%27re%20building%20purpose.;For%20me%2C%20Web3%20isn%27t%20a%20hype%20cycle.%20It%27s%20a%20mirror%E2%80%94a%20place%20to%20find%20our%20truest%20contribution.;Still%20here.%20Still%20building.%20Long%20road%20ahead%2C%20but%20with%20the%20right%20people%2C%20it%20feels%20just%20right.%20Positive%20vibes%20only.%20%E2%96%A0"
-    alt="Animated About Paragraph"
-  />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+</picture> 
 
 
 ```bash
@@ -62,11 +60,7 @@ $ Positive vibes only. _
 </a>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-</picture> 
+
 
 
 
